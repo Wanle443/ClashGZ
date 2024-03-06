@@ -108,6 +108,7 @@ dns:
      - songsearch.kugou.com
      - trackercdn.kugou.com
      - "*.kuwo.cn"
+     - "*.freeok.vip"
      - api-jooxtt.sanook.com
      - api.joox.com
      - joox.com
